@@ -1,12 +1,5 @@
 
 # Data Structures Lab
-
-## Course Information
-- **Course Name:** Data Structures Lab
-- **Course Code:** [Enter Course Code]
-- **Department:** Computer Science and Engineering (CSE)
-- **University:** Southeast University
-
 ## About This Repository
 
 This repository contains source codes and practical implementations of fundamental data structures and algorithms covered in the Data Structures Lab.
